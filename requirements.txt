@@ -1,0 +1,9 @@
+tensorflow
+keras
+numpy
+threading
+os
+flask
+PIL
+werkzeug
+cv2
